@@ -4,21 +4,23 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+https://github.com/ManasaSambaraju23
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## EDA Case Study
+This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
+In this case study, apart from applying the techniques of EDA , we also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+https://github.com/ManasaSambaraju23/BANK-CREDIT-EDA
+## RSVP MOVIES Case Study
+This is an Advanced SQL project for analysing RSVP movies data set and help them provide meaningful insights and Influencing factors for Worldwide Movie Release.
+https://github.com/ManasaSambaraju23/RSVP-MOVIES-CASE-STUDY
+## Linear Regression Case Study
+This case study  is a programming assignment wherein we build a multiple linear regression model for the prediction of demand for shared bikes for an online bike sharing company.
+We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
