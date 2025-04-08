@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-https://github.com/ManasaSambaraju23
+
 
 There should be whitespace between paragraphs.
 
@@ -20,8 +20,10 @@ https://github.com/ManasaSambaraju23/RSVP-MOVIES-CASE-STUDY
 ## Linear Regression Case Study
 This case study  is a programming assignment wherein we build a multiple linear regression model for the prediction of demand for shared bikes for an online bike sharing company.
 We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
-
-
+## Logistic Regression Case Study
+An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses.Through this process, some of the leads get converted while most do not. 
+By performing Logistic Regression on a dataset, we assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads.
+https://github.com/ManasaSambaraju23/LOGISTIC-REGRESSION-CASE-STUDY
 ### Header 3
 
 ```js
