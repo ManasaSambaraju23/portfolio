@@ -10,19 +10,100 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## EDA Case Study
-This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
-In this case study, apart from applying the techniques of EDA , we also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+##  Loan Default Risk Analysis: EDA & Risk Analytics in Banking
+This project focuses on identifying patterns that indicate whether a client is likely to face difficulty in repaying their loan instalments. Using Exploratory Data Analysis (EDA), we aim to extract actionable insights that can help financial institutions make informed and data-driven lending decisions.
+
+The goal is to:
+Detect risk-prone applicants early,
+Reduce the likelihood of loan defaults,
+Support smarter lending strategies such as:Rejecting high-risk applicants,Adjusting loan amounts or terms,
+Offering higher interest rates for riskier profiles,
+ensuring that reliable customers are not wrongly declined.
+
+Key Concepts:
+1.Risk analytics in banking and financial services
+2.Use of data to minimize financial loss due to defaults.
+3.Identifying key variables and trends that signal repayment issues.
+
+Tech Stack:
+Language: Python
+Libraries:NumPy,Pandas,Matplotlib,Seaborn
+
+Datasets Used:
+Current Applications Dataset – Contains data of clients applying for loans.
+Previous Applications Dataset – Historical data on past loan applications.
+
 https://github.com/ManasaSambaraju23/BANK-CREDIT-EDA
-## RSVP MOVIES Case Study
-This is an Advanced SQL project for analysing RSVP movies data set and help them provide meaningful insights and Influencing factors for Worldwide Movie Release.
+
+## RSVP Movies Case Study: Advanced SQL Analysis
+This project focuses on performing advanced SQL analysis on the RSVP Movies dataset to uncover actionable insights that can guide strategic decisions around worldwide movie releases.
+
+Objective:
+The primary goal is to
+1.Analyze key performance metrics and trends in the movie industry.
+2.Identify influencing factors for successful global movie releases.
+3.Deliver data-driven recommendations to optimize release strategies.
+
+Key Skills Demonstrated:
+Advanced SQL querying and data manipulation.
+Data exploration and relationship analysis.
+Business intelligence reporting using SQL.
+
+Dataset:
+RSVP Movies Dataset – Contains detailed information about movies, genres, ratings, release dates, and performance metrics.
+
 https://github.com/ManasaSambaraju23/RSVP-MOVIES-CASE-STUDY
-## Linear Regression Case Study
-This case study  is a programming assignment wherein we build a multiple linear regression model for the prediction of demand for shared bikes for an online bike sharing company.
-We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
-## Logistic Regression Case Study
-An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses.Through this process, some of the leads get converted while most do not. 
-By performing Logistic Regression on a dataset, we assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads.
+##  Bike Sharing Demand Prediction: Linear Regression Case Study
+This project involves building a Multiple Linear Regression model to predict the demand for shared bikes for an online bike-sharing company. By analyzing key features that influence bike rentals, the model aims to provide actionable insights that help the company optimize operations and align business strategies with customer demand.
+
+Objective:
+Predict daily demand for shared bikes based on available independent variables.
+Help management understand how various factors (like weather, season, working days, etc.) affect bike rentals.
+Support strategic planning for entering new markets by modeling demand dynamics.
+
+Key Concepts:
+1.Multiple Linear Regression.
+2.Feature selection and model interpretation.
+3.Business impact through data-driven insights.
+
+Tech Stack:
+Language: Python
+
+Libraries:
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+Statsmodels
+
+Dataset:
+Bike Sharing App Dataset – Contains booking records and customer-related details for shared bike usage.
+
+https://github.com/ManasaSambaraju23/Linear-Regression-Project-
+
+##  Lead Conversion Prediction: Logistic Regression Case Study
+This project focuses on building a Logistic Regression model for an ed-tech company, X Education, to predict the likelihood of lead conversion. The company attracts industry professionals to its platform daily, but only a portion of these leads convert into customers.
+By modeling lead behavior, we aim to generate a lead score (0 to 100) that reflects the probability of conversion. This enables the marketing and sales teams to focus efforts on high-potential leads and optimize their outreach strategies. 
+
+Objective:
+1.Predict the probability of lead conversion using logistic regression.
+2.Assign a lead score to prioritize follow-up and marketing efforts.
+3.Improve overall conversion rates through data-driven lead management.
+
+Key Concepts:
+1.Binary classification using Logistic Regression.
+2.Feature engineering and model evaluation.
+3.Data-driven marketing strategy
+
+Tech Stack:
+Language: Python
+
+Libraries:NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn,Statsmodels
+
+Dataset:
+Lead Conversion Dataset – Contains user activity and metadata for website visitors, including information relevant to predicting conversion.
+
 https://github.com/ManasaSambaraju23/LOGISTIC-REGRESSION-CASE-STUDY
 ### Header 3
 
