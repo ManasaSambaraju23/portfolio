@@ -1,9 +1,9 @@
-title:<p align="center">  Manasa Sambaraju
-logo: assets/img/IMG_20220501_0757189
-description: Aspiring AI and NLP Professional | ML Engineer | NLP | AI | Data Scientist
+title: "Manasa Sambaraju"
+logo: "assets/img/IMG_20220501_0757189"
+description: "Aspiring AI and NLP Professional | ML Engineer | NLP | AI | Data Scientist"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
